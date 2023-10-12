@@ -1,0 +1,29 @@
+tr{
+    background-color: rgb(178, 178, 178);
+    padding: 10px;
+}
+
+th{
+    padding: 10px;
+    background-color: rgb(52, 52, 52);
+    color: rgb(233, 233, 233);
+    border: 1px solid rgb(0, 0, 0);
+}
+
+#storageType{
+    padding: 5px;
+    margin: 10px;
+}
+
+.inputtt{
+    padding: 10px 0;
+}
+
+.block{
+    padding: 15px;
+    margin: 20px 0 0 40px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    width: 400px;
+    border: 1px solid rgb(157, 157, 157);
+}
